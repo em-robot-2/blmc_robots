@@ -49,6 +49,7 @@ ament_export_dependencies(
   ati_ft_sensor
   blmc_drivers
   odri_control_interface
+  master_board_sdk
   real_time_tools
   robot_interfaces
   pybind11
